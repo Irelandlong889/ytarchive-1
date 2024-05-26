@@ -302,7 +302,7 @@ Examples:
 	%[1]s -w
 		Waits for a stream. Will prompt for a URL and quality.
 
-	%[1]s -w https://www.youtube.com/watch?v=CnWDmKx9cQQ 1080p60/best
+	%[1]s -w https://www.youtube.com/live/kogNi9FkA10?si=_AmpKK69KDk0FBIi 240p/best
 		Waits for the given stream URL. Will prioritize downloading in 1080p60.
 		If 1080p60 is not an available quality, it will choose the best of what
 		is available.
